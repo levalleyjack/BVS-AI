@@ -1,0 +1,170 @@
+{
+  "Customer Acquisition": [
+    "Increase Opportunity Win Rate",
+    "Increase Revenue by Sales Rep",
+    "Increase Partner-Sourced Opportunity Win Rate",
+    "Increase Lead Generation",
+    "Increase Lead Conversion Rate",
+    "Increase Lead Conversion Rate for Partner Leads",
+    "Increase Lead Quality and Scoring",
+    "Increase Data Quality",
+    "Increase Lead Generation from Social Channels",
+    "Increase Campaign Revenue",
+    "Increase Campaign ROI",
+    "Increase Marketing-Sourced Revenue (Channel)",
+    "Increase Campaign Effectiveness",
+    "Increase Win/Back Campaign Effectiveness"
+  ],
+  "Customer Growth": [
+    "Increase Opportunity Win Rate",
+    "Increase Average Order Size",
+    "Increase Cross-Selling and Up-Selling",
+    "Increase Revenue per Customer",
+    "Increase Campaign Revenue",
+    "Increase Marketing-Sourced Revenue (Channel)",
+    "Increase Campaign ROI",
+    "Increase Campaign Effectiveness",
+    "Increase New Leads from Existing Customer",
+    "Increase Lead Conversion Rate for Partner Leads"
+  ],
+  "Customer Retention": [
+    "Increase Customer Satisfaction and Loyalty",
+    "Increase Retention Rate",
+    "Increase Retention Campaign Effectiveness"
+  ],
+  "Customer Profitability": [
+    "Increase Margin per Customer",
+    "Reduce Costs"
+  ],
+  "Sales Cost Reduction": [
+    "Reduce Sales Cycle Time",
+    "Reduce Sales Cycle Time for Partner-Sourced Opportunities",
+    "Reduce Sales Cost Through Partners",
+    "Increase Partner Opportunity Closure Rate",
+    "Reduce Administrative Time/Cost Spent on Customer Research",
+    "Reduce Administrative Time/Cost Spent on Competitor Research",
+    "Reduce Administrative Time/Cost Spent on Partner Opportunities",
+    "Reduce Time/Cost to Proficiency",
+    "Increase Lead Quality and Scoring",
+    "Increase Data Quality"
+  ],
+  "Service Cost Reduction": [
+    "\"Increase Case Deflection",
+    "\"Reduce Administrative Time/Cost",
+    "Reduce Service Response Time",
+    "Reduce Headcount",
+    "Reduce Complaint Time to Resolution",
+    "Reduce Service Cost Through Self-Service",
+    "Reduce Time/Cost to Proficiency"
+  ],
+  "IT Cost Reduction": [
+    "Reduce Hardware Cost",
+    "Reduce Infrastructure Cost",
+    "Reduce Maintenance Cost",
+    "Reduce Labor Cost",
+    "Reduce Software Cost"
+  ],
+  "Marketing Cost Reduction": [
+    "Improve Campaign Management",
+    "Reduce Administrative Time/Cost",
+    "Reduce Marketer Content Publishing Time",
+    "Improve Marketing Development Fund Tracking"
+  ],
+  "Customer Satisfaction": [
+    "Reduce Time to Close Cases"
+  ],
+  "Cost Avoidance": [
+    "Avoid New Hardware Cost",
+    "Avoid New Infrastructure Cost",
+    "Avoid New Maintenance Cost",
+    "Avoid New Labor Cost",
+    "Avoid New Software Cost",
+    "Avoid Price Quotation Errors",
+    "Avoid SLA penalty",
+    "Improve Productivity",
+    "Sales Rep Productivity",
+    "Increase Sales Rep Efficiency",
+    "Increase Sales Rep Reporting Efficiency",
+    "Increase Sales Rep Collaboration",
+    "Reduce Sales Rep Onboarding Time"
+  ],
+  "Service Rep Productivity": [
+    "Increase Service Rep Efficiency",
+    "Increase Service Rep Reporting Efficiency",
+    "Increase Service Rep Collaboration",
+    "Reduce Service Rep Onboarding Time"
+  ],
+  "IT Staff Productivity": [
+    "Increase IT Staff Efficiency",
+    "Increase Access to and Sharing of Information"
+  ],
+  "Employee Productivity": [
+    "Increase Employee Efficiency",
+    "Increase Employee Satisfaction",
+    "Increase Employee Productivity Through Mobile",
+    "Increase Access to and Sharing of Information",
+    "Increase Cross-Functional Collaboration",
+    "Reduce Employee Onboarding Time"
+  ],
+  "Marketing Staff Productivity": [
+    "Increase Marketing Staff Efficiency",
+    "Increase Marketing Staff Reporting Efficiency",
+    "Increase Marketing Staff Collaboration",
+    "Reduce Marketing Staff Onboarding Time"
+  ],
+  "HR Staff Productivity": [
+    "Increase HR Staff Efficiency",
+    "Increase HR Staff Reporting Efficiency",
+    "Increase HR Staff Collaboration",
+    "Reduce HR Staff Onboarding Time",
+    "Enhance Strategic Capabilities",
+    "Agility & Flexibility",
+    "Improve Agility and Flexibility of IT Systems and Platforms",
+    "Improve Agility, Flexibility, Adoption and Utilization of Business Processes",
+    "Provide On-Par Capabilities for the Mobile Workforce"
+  ],
+  "Operational Excellence": [
+    "Improve Process Effectiveness and Efficiency",
+    "Improve Flexibility and Integration of Business Processes across Enterprise, Business Partners and Customers",
+    "Improve Business Continuity and Disaster Recovery Capabilities"
+  ],
+  "Innovation Capabilities": [
+    "Grow Co-Created Innovation Pipeline with Business Partners",
+    "Improve Customer Ideation Process and Inclusion in Product Prioritization Process",
+    "Reduce Time between Idea and Solution"
+  ],
+  "Collaboration Effectiveness": [
+    "Improve Collaboration and Knowledge Sharing across Enterprise, Business Partners and Customers",
+    "Improve Collaboration In-Context of Business Processes",
+    "Improve Cross-Company Collaboration and Knowledge Sharing"
+  ],
+  "Partner Effectiveness": [
+    "Improve Integration of IT Systems with Partners",
+    "Improve Quality and Speed of Communication with Partners",
+    "Improve Collaboration with Partners in Sales, Service and Marketing",
+    "Improve Strength of Partner Relationship",
+    "Improve Partner Enablement Programs"
+  ],
+  "Business Performance Management": [
+    "Improve Alignment between Operational Performance Data and Performance Incentives",
+    "Improve Quality, Availability and Timeleness of Operational Performance Data"
+  ],
+  "Earnings Predictability": [
+    "Improve Forecast Accuracy",
+    "Improve Pipeline Health & Visibility",
+    "Improve Unplanned Write-Offs"
+  ],
+  "Governance Effectiveness": [
+    "Improve Quality, Availability and Timeliness of Management Information",
+    "Improve Support for Regulatory Compliance",
+    "Reduce Risks of Information Unavailability and Related Consequences"
+  ],
+  "Business Planning": [
+    "Improve Alignment of IT Strategy with Corporate Strategy",
+    "Improve Ease of Integrating Merged and Acquired Organizations"
+  ],
+  "Brand Strength": [
+    "Improve Consistency of Brand Experience Across Customer Touchpoints",
+    "Reduce Carbon Footprint"
+  ]
+}
